@@ -4,7 +4,7 @@
  Author      : $(author)
  Version     :
  Copyright   : $(copyright)
- Description : main definition
+ Description : example code for the pwm signal of LPC54114
 ===============================================================================
 */
 
