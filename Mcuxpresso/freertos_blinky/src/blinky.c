@@ -122,3 +122,4 @@ int main(void)
 	/* Should never arrive here */
 	return 1;
 }
+// this code is quite similar to the one which we used for LPC1769
