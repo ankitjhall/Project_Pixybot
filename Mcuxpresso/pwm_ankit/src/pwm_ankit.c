@@ -48,7 +48,6 @@ int main(void) {
     boot_multicore_slave();
 #endif
 
-    // TODO: insert code here
 
     // Force the counter to be placed into memory
     volatile static int i = 0 ;
