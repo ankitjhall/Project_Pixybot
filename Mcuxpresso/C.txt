@@ -1,5 +1,5 @@
 /**
- * @file    lpc-54114----motor_control_with_button.c
+ * @file    lpc-54114----motor_control_with_button.c    Code for motors running with PWM
  * @brief   Application entry point.
  */
 #include <stdio.h>
