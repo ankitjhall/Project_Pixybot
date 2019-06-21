@@ -1,6 +1,6 @@
 /**
  * @file    lpc-54114----motor_control_with_button.c
- * @brief   Application entry point.
+ 
  */
 #include "board.h"
 #include "peripherals.h"
