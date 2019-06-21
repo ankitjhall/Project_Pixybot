@@ -18,7 +18,7 @@
 /* TODO: insert other definitions and declarations here. */
 
 #define SCTIMER_CLK_FREQ CLOCK_GetFreq(kCLOCK_BusClk)
-#define LEFT_MOTOR_SIGNAL1 kSCTIMER_Out_2                //D5 pin
+#define LEFT_MOTOR_SIGNAL1 kSCTIMER_Out_2                               //D5 pin
 #define LEFT_MOTOR_SIGNAL2 kSCTIMER_Out_7				//D7 pin
 #define RIGHT_MOTOR_SIGNAL1 kSCTIMER_Out_4				//D10 pin
 #define RIGHT_MOTOR_SIGNAL2 kSCTIMER_Out_5				//D9 pin
