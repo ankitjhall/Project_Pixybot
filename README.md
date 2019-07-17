@@ -1,7 +1,6 @@
 # Project_Zumo
 Created for the 4th sem project
 
-
 Tracking
 
 Commands REQUIRED for installing PixyMon on Linux (FIX)
