@@ -3,7 +3,7 @@ Created for the 4th sem project
 
 Tracking
 
-Commands REQUIRED for installing PixyMon on Linu (FIX)
+Commands REQUIRED for installing PixyMon on Lin (FIX)
 
 sudo apt-get install qt5-default
 sudo apt-get install qt5-qmake
