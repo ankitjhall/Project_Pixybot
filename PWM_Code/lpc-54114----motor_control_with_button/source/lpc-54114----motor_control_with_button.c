@@ -1,5 +1,5 @@
 /**
- * @file    lpc-54114----motor_control_with_button.c.
+ * @file    lpc-54114----motor_control_with_button.c..
  
  */
 #include "board.h"
