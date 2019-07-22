@@ -2,7 +2,7 @@
 ===============================================================================
  Name        : pwm_ankit.c
  Author      : $(author)
- Version     :
+ Version     :.
  Copyright   : $(copyright)
  Description : example code for the pwm signal of LPC54114
 ===============================================================================
