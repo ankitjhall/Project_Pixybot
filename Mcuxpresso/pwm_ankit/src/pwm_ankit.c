@@ -1,6 +1,6 @@
 /*
 ===============================================================================
- Name        : pwm_ankit.c
+ Name        : pwm_ankit.c.
  Author      : $(author)
  Version     :.
  Copyright   : $(copyright)
