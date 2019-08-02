@@ -1,6 +1,6 @@
 This is a note for pixymon installation. .
 .
 On GitHub it is written that qt4 is required to install pixymon for linux, but you neet qt5 to install it otherwise it will prompt you an error. 
-.
+..
 Without qt5 pixymon cannot be installed on Ubuntu.. if you using manjaro just install pixymon directly via package manager
 Cheers.. Enjoy ..
