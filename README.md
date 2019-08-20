@@ -14,5 +14,4 @@ Pixy is connected to BeagleBone and Motors with LPC54114..
 
 Will upload picture of harware soon.....
 ......
-.
-.
+
