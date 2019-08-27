@@ -1,7 +1,7 @@
 # Project_Zumo
 Created for the 4th sem project
 
-Tracking
+Object Following as well as avoiding obstacles.
 
 Commands REQUIRED for installing PixyMon on Ubuntu (FIX)
 
