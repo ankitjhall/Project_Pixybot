@@ -11,4 +11,3 @@ sudo apt-get install qtbase5-dev-tools
 
 Pixy is connected to BeagleBone and Motors with LPC54114
 Visit ankitjhall.github.io for image
-.
