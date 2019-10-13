@@ -13,4 +13,3 @@ Pixy is connected to BeagleBone and Motors with LPC54114
 Visit ankitjhall.github.io for image
 .
 .
-.
